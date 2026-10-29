@@ -1,0 +1,16 @@
+<DOCTYPE>
+<html lang="en">
+    <head>
+        <title>My Frist Web Page</title>
+    </head>
+
+    <body>
+        <div> id="nav bar"
+            <ul>
+                <li>Home</li>
+                <li>About</li>
+                <li>Services</li>
+
+            </ul>
+        </div>
+    </body>
